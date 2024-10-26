@@ -1,0 +1,6 @@
+Service: Spooler is currently Running, should be Stopped
+Action failed, service Spooler is still Running should be Stopped
+Service: W32Time is currently Stopped, should be Running
+Action was successfull, service W32Time is now Running
+Service: wuauserv is currently Stopped, should be Running
+Action was successfull, service wuauserv is now Running

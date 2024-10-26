@@ -2,3 +2,7 @@ Name,Status
 WinDefend,Running
 VSS,Running
 Spooler,Stopped
+Dhcp,Running
+W32Time,Running
+wuauserv,Running
+mpssvc,Running

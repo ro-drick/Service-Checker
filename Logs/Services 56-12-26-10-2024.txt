@@ -1,0 +1,2 @@
+Service: Spooler is currently Running, should be Stopped
+Action failed, service Spooler is still Running should be Stopped
