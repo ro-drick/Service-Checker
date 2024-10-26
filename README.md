@@ -9,7 +9,8 @@ This PowerShell script monitors specified Windows services, logs any discrepanci
 - **Automatic Correction**: Attempts to correct the status of any service that doesn’t match the desired state.
 - **Logging**: Records each check, status change attempt, and final outcome in a timestamped log file.
 - **Email Alerts**: Sends an email alert with the log file attached if any issues are detected.
-
+  
+![](screenshot.png)
 ---
 
 ## Requirements
